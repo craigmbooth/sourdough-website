@@ -1,0 +1,39 @@
+---
+layout: default
+title: All Articles
+permalink: /articles/
+---
+
+<section class="tags">
+    <div class="tags__inner">
+      <div class="container">
+        <div class="row">
+          <div class="col col-12">
+            <div class="tag__info">
+              <div class="tag__info-box">
+                <div class="tag__counter">
+                  <span>{{ site.posts.size }}</span>
+                  <small>{% if site.posts.size < 2 %}Article{% else %}Articles{% endif %}</small>
+                </div>
+                <h2 class="tag__name">Articles</h2>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col col-12">
+            <div class="row">
+              {% for post in site.posts %}
+                {% if post.title != null %}
+                  {% include article.html %}
+                {% endif %}
+              {% endfor %}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</section>
+<!-- end tags -->
