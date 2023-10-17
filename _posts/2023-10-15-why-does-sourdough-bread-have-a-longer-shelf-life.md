@@ -50,3 +50,13 @@ Molds, a common culprit behind bread spoilage, have specific environmental prefe
    * Synergy with Other Factors: It's not just the pH alone that deters molds. The combination of sourdough's acidity with other factors, such as its unique crumb structure and moisture content, collectively creates an environment where molds find it hard to gain a foothold.
 
 While the acidic nature of sourdough helps in mold prevention, it's essential to note that it doesn't make the bread mold-proof. Other factors, like storage conditions and exposure to mold spores, can still introduce mold to the bread. However, the pH level gives sourdough a fighting edge in the battle against spoilage.
+
+This was demonstrated well by Katsi et al. (2021), who took sourdough and yeasted breads and measured the number of bacteria (left panel) and pH (right panel) of the bread.  Here we reproduce some of their data
+
+![Figure from Katsi et al. 2021]({{site.baseurl}}/images/posts/shelf-life/study.png)
+
+It is clear from these charts that the sourdough bread lasts for more time (out to 15 days) before the number of bacteria begins to rise, and that the pH of the sourdough bread is acidic (around 5.7) and stays there.  Conversely, the yeasted bread has an initially very slightly acidic pH, but as bacteria rapidly grow in that bread the pH drops precipitously.
+## To Sum It Up
+Sourdough bread stays fresh longer because of how it's made. The way it ferments creates natural acids that keep bad things like mold away. But even with this advantage, it's always best to eat bread when it's fresh to enjoy the best taste. Remember, sourdough might last longer without mold, but that doesn't mean it tastes as good as when it's fresh out of the oven! So, enjoy your sourdough soon after baking and store it right to keep it at its best.
+## Citations
+   * Katsi, P., Kosma, I. S., Michailidou, S., Argiriou, A., Badeka, A. V., & Kontominas, M. G. (2021). Characterization of Artisanal Spontaneous Sourdough Wheat Bread from Central Greece: Evaluation of Physico-Chemical, Microbiological, and Sensory Properties in Relation to Conventional Yeast Leavened Wheat Bread. In Foods (Vol. 10, Issue 3, p. 635). MDPI AG. [https://doi.org/10.3390/foods10030635](https://doi.org/10.3390/foods10030635)

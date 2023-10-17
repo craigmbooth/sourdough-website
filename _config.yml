@@ -2,7 +2,7 @@
 # Site Settings
 title: Sourdough Science
 logo: /images/main/logo.png
-description: Demystifying sourdough baking, one question at a time.
+description: Demystifying sourdough baking, one question at a time. dfsdfsdfs
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 color_scheme: dark # auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -30,16 +30,16 @@ social:
 # Hero Settings
 hero:
   hero__title: Sourdough Science
-  hero__description: Demystifying sourdough baking and fermentation, one question at a time.
+  hero__description: Demystifying sourdough baking and fermentation, one question at a time.<br><br>Sign up to get a new piece of sourdough science delivered to your inbox every week.
   hero__image: '/images/main/header.png'
 
 
 #-------------------------------
 # Newsletter
-mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
+mailchimp: enable
 mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
-mailchimp__input__text: Subscribe here
-mailchimp__button__text: Get a new tip
+mailchimp__input__text: Email address
+mailchimp__button__text: Sign me up!
 
 
 #-------------------------------
