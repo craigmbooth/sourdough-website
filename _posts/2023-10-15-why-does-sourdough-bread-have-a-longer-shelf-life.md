@@ -7,10 +7,11 @@ image:  '/images/posts/shelf-life.png'
 tags:   [storage]
 ---
 
-Sourdough has a longer shelf life than typical yeasted breads.  Before we go any further into describing why this is, let's tak a moment to discuss the difference betwen shelf-life and freshness.
+You may have noticed that your sourdough loaves remain free of mold on the shelf for much longer than a comparable yeasted loaf.  It is indeed true that sourdough has a longer shelf life than typical yeasted breads.
+
+Before we go any further into describing why this is, let's tak a moment to discuss the difference betwen shelf-life and freshness.
 
 ## Shelf-life vs. Freshness
-
 Shelf-life refers to the length of time bread remains safe to eat without presenting health risks, such as mold or bacterial growth. Beyond this period, even if the bread appears fine, it might not be safe for consumption.  Freshness pertains to the period immediately after the bread is baked, where it retains its optimal taste, texture, and aroma. It's when the bread is at its best, offering a delightful sensory experience with every bite.
 
 Although sourdough can remain mold-free for a long period of time, it is best enjoyed while as fresh as possible.

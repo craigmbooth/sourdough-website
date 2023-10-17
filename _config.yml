@@ -5,7 +5,7 @@ logo: /images/main/logo.png
 description: Demystifying sourdough baking, one question at a time.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-color_scheme: dark # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+color_scheme: dark # auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
 #-------------------------------
@@ -91,7 +91,7 @@ google-analytics: # Add your GA Tracking Id
 #-------------------------------
 # Build Settings
 markdown: kramdown
-permalink: /:title
+permalink: articles/:title
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
