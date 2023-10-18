@@ -36,11 +36,6 @@ Phytic acid is a substance found in many plant-based foods, including wheat flou
 
 Phytate is commonly called an "anti-nutrient" because it tends to bind to common minerals, including iron, zinc, magnesium and calcium, meaning that they are unavailable for absorption into the body. A prolonged sourdough fermentation was found to decrease phytic acid levels by 62%, relative to only 38% for a more standard yeast-based fermentation process (Lopez et al., 2021). Thus, it should be expected that relative to other breads, sourdough is able to supply more of these vital minerals.
 
-## It is easier to digest
-The fermentation process in sourdough can break down some of the gluten in the dough, making it easier to digest for some people.
-
-WRITE ME
-
 ## Conclusion
 Sourdough bread isn't just tasty; it's also better for you than regular bread in many ways. Unlike other breads, sourdough doesn't cause a quick spike in your blood sugar. This is great news for people who want to watch their sugar levels. Plus, it has more of the good stuff our body needs, like vitamins and other healthy bits.
 
