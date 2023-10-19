@@ -4,7 +4,7 @@ title: Sourdough Science
 logo: /images/main/logo.png
 description: Demystifying sourdough baking, one question at a time. dfsdfsdfs
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sourdough.science" # the base hostname & protocol for your site, e.g. http://example.com
 color_scheme: dark # auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
