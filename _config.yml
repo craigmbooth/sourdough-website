@@ -37,7 +37,8 @@ hero:
 #-------------------------------
 # Newsletter
 mailchimp: enable
-mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+# frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+mailchimp__identifier: science.us21.list-manage.com/subscribe?u=88d220af92faa56c868027f87&id=7e0060a224
 mailchimp__input__text: Email address
 mailchimp__button__text: Sign me up!
 
